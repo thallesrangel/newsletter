@@ -1,4 +1,4 @@
-# Software de newsletter - captura e gerenciamento De e-mails
+## Software de newsletter - captura e gerenciamento De e-mails
 ### Stack
 - PHP 8.1:latest
 - Laravel 10
